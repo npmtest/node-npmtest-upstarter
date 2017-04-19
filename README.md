@@ -1,4 +1,7 @@
-# test coverage for  [upstarter (v0.2.6)](https://github.com/carlos8f/node-upstarter)  [![npm package](https://img.shields.io/npm/v/npmtest-upstarter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-upstarter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-upstarter.svg)](https://travis-ci.org/npmtest/node-npmtest-upstarter)
+# npmtest-upstarter
+
+#### test coverage for  [upstarter (v0.2.6)](https://github.com/carlos8f/node-upstarter)  [![npm package](https://img.shields.io/npm/v/npmtest-upstarter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-upstarter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-upstarter.svg)](https://travis-ci.org/npmtest/node-npmtest-upstarter)
+
 #### Easily create upstart services for your node apps
 
 [![NPM](https://nodei.co/npm/upstarter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/upstarter)
