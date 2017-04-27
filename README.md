@@ -1,6 +1,6 @@
 # npmtest-upstarter
 
-#### test coverage for  [upstarter (v0.2.6)](https://github.com/carlos8f/node-upstarter)  [![npm package](https://img.shields.io/npm/v/npmtest-upstarter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-upstarter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-upstarter.svg)](https://travis-ci.org/npmtest/node-npmtest-upstarter)
+#### basic test coverage for  [upstarter (v0.2.6)](https://github.com/carlos8f/node-upstarter)  [![npm package](https://img.shields.io/npm/v/npmtest-upstarter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-upstarter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-upstarter.svg)](https://travis-ci.org/npmtest/node-npmtest-upstarter)
 
 #### Easily create upstart services for your node apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-upstarter/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-upstarter/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-upstarter/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-upstarter/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-upstarter/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-upstarter/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-upstarter/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-upstarter/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-upstarter/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-upstarter/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-upstarter/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-upstarter/build/coverage.html/index.html)
 
